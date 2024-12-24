@@ -87,6 +87,14 @@ body > .container-fluid {
   font-size: 25px;
   font-weight: 900; }
 
+  .navbar-brand img {
+    display: inline;
+    width: 40px;
+    height: auto;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+
 .navbar-default .navbar-nav > li > a {
   color:#07374a;
   font-weight: 600;
