@@ -218,6 +218,7 @@ body > .container-fluid {
   padding-top: 5%; }
 
 #contact {
+  /* height: 20vh; */
   background-color: #f0f0e6; }
   #contact h2 {
     color: #07374a; }
@@ -231,7 +232,7 @@ body > .container-fluid {
   color: #07374a;
   font-weight: 900;
   font-size: 18px;
-  margin-right: 33px;
+  margin-right: 48px;
   list-style: none; }
   .contact-social-icons ul a:hover {
     color: #07374a; }
@@ -246,6 +247,13 @@ body > .container-fluid {
   height: 30px;
   background-color: #07374a;
   color: #f0f0e6; }
+
+  .footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+  }
 
 #scrollIcon, #scrollTopIcon {
   margin-top: 200px;
